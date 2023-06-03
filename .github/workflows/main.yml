@@ -67,4 +67,4 @@ jobs:
       with:
         context: ./backend/
         push: true
-        tags: mrKrot01/taski_backend:latest
+        tags: mrkrot01/taski_backend:latest
